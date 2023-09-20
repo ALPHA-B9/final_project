@@ -1,0 +1,59 @@
+Sushant Wandhekar
+Data Engineer|2.5Y
+Mob:9657229396
+Email:sushantandhekar556@gmail.com
+
+Experiance Summary
+Experienced Data Engineer: Skilled in Apache Spark, AWS, Hadoop, and Python, with a focus on data engineering.
+ETL Specialist: Proficient in designing and implementing ETL processes using Apache Kafka, Hive, SQL, and more.
+Cloud Expertise: Well-versed in AWS services, including Redshift, Athena, Glue, DynamoDB, and Lambda.
+Database Mastery: Capable of working with both SQL and NoSQL databases, such as MySQL and Oracle.
+Big Data Proficiency: Competent in Big Data analytics, data warehousing, and Delta Lake architecture.
+Data Pipeline Pro: Skilled in data pipeline development, CI/CD, and deployment, ensuring data integrity.
+Problem Solver: Known for analyzing, debugging, and resolving data-related issues efficiently.
+Automation Guru: Expert in automating workflows and improving operational efficiency.
+Business Savvy: Able to translate business requirements into technical solutions and optimize data designs.
+AWS Monitoring: Proficient in setting up Star Schema models and monitoring data pipelines for performance.
+
+Experiance Summary2
+Experienced Data Engineer: Skilled in Apache Spark, AWS, Hadoop, and Python, with a focus on data engineering.
+ETL Specialist: Proficient in designing and implementing ETL processes using Apache Kafka, Hive, SQL, and more.
+Cloud Expertise: Well-versed in AWS services, including Redshift, Athena, Glue, DynamoDB, and Lambda.
+Database Mastery: Capable of working with both SQL and NoSQL databases, such as MySQL and Oracle.
+Big Data Proficiency: Competent in Big Data analytics, data warehousing, and Delta Lake architecture.
+Data Pipeline Pro: Skilled in data pipeline development, CI/CD, and deployment, ensuring data integrity.
+Problem Solver: Known for analyzing, debugging, and resolving data-related issues efficiently.
+Automation Guru: Expert in automating workflows and improving operational efficiency.
+Business Savvy: Able to translate business requirements into technical solutions and optimize data designs.
+AWS Monitoring: Proficient in setting up Star Schema models and monitoring data pipelines for performance.
+Trending Big Data Technologies: Profound knowledge of emerging Big Data technologies, including Apache Kafka, 
+Apache Airflow, and data lake solutions, to stay at the forefront of industry trends.
+
+Optimization and Scalability: Experienced in designing and implementing highly scalable data solutions, 
+leveraging the power of cloud-based services and optimizing data pipelines for efficiency.
+
+
+Proffessional Experiance
+Persistent Systems(Jan 2022-Jan 2023)
+Domain:Helthcare and Insurance 
+-Import Data into the Hive from various Relational Databases (Oracle, Sybase, AS400, SQL Server)using Sqoop. 
+-Write Java MapReduce Job to Ingest EBCDIC, XML Files into Hive Warehouse. 
+-Write Hive DDL to Create Hive Table for Optimize Query Performance. 
+- Raise JIRA for Infrastructure, Platform issues. 
+- Engage with BA to understand the requirements clearly.
+-Define all the possible Test Cases along with the Test Data. 
+-Comes up with missing scenarios and get them clarified with BA. 
+- Implement Data Validation, Quality Checks, Profiling.
+-Perform UAT of Big Data implementation. 
+-Involved in Collecting Business Requirements from Business Users, Translate into Technical Design 
+(Data Pipelines and ETL workflows).
+-Involved in import data from various RDBMS into HDFS using Sqoop which includes Incremental 
+Load to populate Hive External Table and vice-versa.
+-Involved in import data from various RDBMS into Hive Tables which includes Queries using Sqoop.
+-Designed both Managed and External Hive Tables and Defined static and dynamic partitions as per 
+requirement for optimized performance on production datasets.
+-Worked with various File Formats like Text File, SequenceFile, ORC Files, Avro Files and various 
+Compression Formats like Snappy, bzip2.
+- Written Hive Queries for Data Analysis to meet the business requirements.
+- Involved in developing shell scripts and automated data management from end to end integration 
+work.

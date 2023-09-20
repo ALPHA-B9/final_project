@@ -1,0 +1,101 @@
+#Resume 
+
+24th Sept EOD - send your Resume for Review
+
+=================================================
+#Nokari -
+
+already having - same -> change  DE 
+Ranking --> 2 update 
+
+
+DE Keywords:
+Apache Spark Amazon Web Services (AWS) Data Engineering Hadoop Python (Programming Language) Extract Transform Load (ETL) Apache Kafka Big Data Hive SQL Data Warehousing Git PostgreSQL Orchestration tool Apache Airflow Data Analysis PySpark Tableau Amazon Redshift,Athena Big Data Analytics MySQL NoSQL Data Lake , Delta Lake Data Pipeline Lambda Glue DynamoDB Sqoop,hbase,linux,shell script,crontab,hdfs,map reduce (MR),CICD (CI/CD) , deployment , data cleaning  ,SCD,CDC , incremental , bigdata , structured , semistructured , unstructured ,oracle , postgre ,optimization ,design , implemntation ,business , requirements ,schedular ,analyze , debug , problem solving , automation ,worflow ,data ingestion , log , application ,reconcile , validation ,hadoop , CDP  , CDH , Skills ,AWS, Star Schema,monitor
+
+
+Note : 
+current salary 0 
+
+Notice Period : < 15 days 
+1 Month  <15days
+60/90 : 1 Month 
+
+Daily twice you need to upload your resume on Nokari 
+12:05 AM
+10-10:30 AM 
+
+Always upload and share resume in pdf format 
+Name of resume : 
+fname_lname_cv.pdf
+fname_lname_DE_cv.pdf
+sagar_ingale_DE_7Y_cv.pdf
+
+================================
+Resume headline
+
+Designation experience in year and imp skillset 
+pyspark aws cloud,python,hadoop ecosystem , datawarehouse, etl ,
+
+exp : 
+Experienced Data Engineer proficient in Apache Spark, AWS, ETL, Python, Hadoop, Kafka, and more. Specializing in Big Data Analytics and Data Warehousing.
+
+===================================
+keyskill :
+
+try to add more keywords which have given 
+
+
+Data Engineer 
+spark,python,pyspark,airflow,aws,datawarehouse,redshift,etl,database,hive
+
+Employment
+skill used : all important skills 
+Job profile : add professional summary : 
+
+=============
+Education : add highest education 
+
+======================
+IT skills :
+
+tool when used and version 
+
+=============================
+profile summary : designation , exp , skills 
+I am an experienced, disciplined, and highly-motivated BigData Developer having a total experience of 4.5 years and have worked on a wide Hadoop Ecosystem, Spark, Scala,Scripting, Unix, Databases, Version control,cloud, large datasets and many tools related to BigData technology. I look forward to be associated with an organization that would allow me to use my knowledge and skills to the optimum, which further will help organization to reach new height of success along with constantly improving my skills in lieu with the strategies and goals of the organization. I am an accomplished and fluent communicator with strong analytical, project management, problem-solving and decision-making skills, combined with a pragmatic approach and sound business acumen.
+
+==============================================
+*****Career profile
+
+IT consulting 
+Dept : Engg - SW and QA 
+Role :  DWH
+Role :  DWH dev 
+All 10 location 
+
+keywords 
+
+
+***** Alert 
+
+=========================
+Nokari 
+
+
+Resume --> Review --> Mock --> 60% --> Start ---> upload 
+
+
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+2 years 
